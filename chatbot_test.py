@@ -30,7 +30,7 @@ class ChatbotTestCase(unittest.TestCase):
                 KEY_EXPECTED: {
                     KEY_IS_BOT: False,
                     KEY_BOT_COMMAND: None,
-                    KEY_MESSAGE: "me",
+                    KEY_MESSAGE: "!about me",
                 }
             },
             # TODO HW13 - add another
